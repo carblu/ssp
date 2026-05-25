@@ -1,1 +1,1 @@
-<h2>Static Separation of Permission</h2>
+<h2>Constrained Role Mining - Static Separation of Permission</h2>
